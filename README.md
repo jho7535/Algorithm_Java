@@ -10,3 +10,4 @@
 | [백준_1103](https://www.acmicpc.net/problem/1103)   | DP, 그래프 이론, 그래프 탐색, DFS | 1시간 초과 |                    [O](https://velog.io/@jho7535/%EB%B0%B1%EC%A4%80-JAVA-1103%EB%B2%88-%EA%B2%8C%EC%9E%84)                    |
 | 엘리스 코드 챌린지 예선 Day 1                               |                     미분류 |   -    |                                                               X                                                               |
 | 엘리스 코드 챌린지 예선 Day 2                               |                     미분류 | 17:07  |                                                               X                                                               |
+| 엘리스 코드 챌린지 예선 Day 2                               |                     미분류 | 32:36  |                                                               X                                                               |
