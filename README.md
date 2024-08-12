@@ -13,4 +13,4 @@
 | 엘리스 코드 챌린지 예선 Day 3                               |                         미분류 | 32:36  |                                                               X                                                               |
 | [백준_1138](https://www.acmicpc.net/problem/1138)   |                     구현, 그리디 | 22:24  |                                                               X                                                               |
 | [백준_1976](https://www.acmicpc.net/problem/1976)   | 자료구조, 그래프 이론, 그래프 탐색, 분리 집합 | 49:17  |                                                               X                                                               |
-| [백준_1238](https://www.acmicpc.net/problem/1238)   |        그래프 이론, 다익스트라, 최단 경로 | 1시간 초과 |                                                               X                                                               |
+| [백준_1238](https://www.acmicpc.net/problem/1238)   |        그래프 이론, 다익스트라, 최단 경로 | 1시간 초과 |   [O](https://velog.io/@jho7535/%EB%B0%B1%EC%A4%80-JAVA-1238%EB%B2%88-%ED%8C%8C%ED%8B%B0)  |
