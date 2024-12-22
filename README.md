@@ -16,3 +16,4 @@
 | [백준_1753](https://www.acmicpc.net/problem/1753)   |        그래프 이론, 다익스트라, 최단 경로 | 1시간 초과 |                     X                     |
 | [백준_1916](https://www.acmicpc.net/problem/1916)   |        그래프 이론, 다익스트라, 최단 경로 | 27:07  |                     X                     |
 | [백준_1504](https://www.acmicpc.net/problem/1504)   |        그래프 이론, 다익스트라, 최단 경로 | 1시간 초과 |                     X                     |
+| [백준_15649](https://www.acmicpc.net/problem/15649) |                        백트래킹 | 20:07  |                     X                     |
