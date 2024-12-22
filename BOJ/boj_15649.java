@@ -9,6 +9,8 @@ public class boj_15649 {
     //public class Main {
     static int n;
     static int m;
+    static StringBuilder sb = new StringBuilder();
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
@@ -18,20 +20,17 @@ public class boj_15649 {
         boolean[] arr = new boolean[n + 1];
         int[] output = new int[n];
 
-        for (int i = 1; i <= n; i++) {
-            arr[i] = true;
-            output[0] = i;
-            recur(arr, 1, output);
-            arr[i] = false;
-        }
+        recur(arr, 0, output);
+
+        System.out.println(sb);
     }
 
     static void recur(boolean[] arr, int cnt, int[] output) {
         if (cnt == m) {
             for (int i = 0; i < m; i++) {
-                System.out.print(output[i] + " ");
+                sb.append(output[i]).append(" ");
             }
-            System.out.println();
+            sb.append("\n");
 
             return;
         }
