@@ -14,6 +14,7 @@ public class boj_1780 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
+        StringBuilder sb = new StringBuilder();
 
         n = Integer.parseInt(st.nextToken());
         map = new int[n + 1][n + 1];
@@ -28,7 +29,8 @@ public class boj_1780 {
         recur(1, 1, n);
 
         for (int i = 0; i < 3; i++)
-            System.out.println(results[i]);
+            sb.append(results[i]).append("\n");
+        System.out.println(sb);
     }
 
     public static void recur(int row, int col, int length) {
