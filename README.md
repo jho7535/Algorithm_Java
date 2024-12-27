@@ -19,3 +19,4 @@
 | [백준_15649](https://www.acmicpc.net/problem/15649) |                        백트래킹 | 20:07  |                     X                     |
 | [백준_1780](https://www.acmicpc.net/problem/1780)   |                    분할정복, 재귀 | 1시간 초과 |                     X                     |
 | [백준_1941](https://www.acmicpc.net/problem/1941)   |             수학, BFS, 백트래킹 등 | 1시간 초과 |                     X                     |
+| [백준_7562](https://www.acmicpc.net/problem/7562)   |    그래프 이론, 그래프 탐색, 너비 우선 탐색 | 36:11  |                     X                     |
