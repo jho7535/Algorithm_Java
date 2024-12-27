@@ -20,23 +20,14 @@ public class boj_1941 {
                 map[i][j] = str.charAt(j);
         }
 
-        List<int[][]> results = new ArrayList<>();
-        combination(0, 0, new int[7][2], new boolean[5][5], results);
-        
-        isValid(results);
+        combination(0, 0, new int[7][2], new boolean[5][5]);
 
         System.out.println(cnt);
     }
 
-    public static void combination(int start, int depth, int[][] coordinates, boolean[][] selected, List<int[][]> results) {
+    public static void combination(int start, int depth, int[][] coordinates, boolean[][] selected) {
         if (depth == 7) {
-            int[][] newCoordinates = new int[7][2];
-            for (int k = 0; k < depth; k++) {
-                newCoordinates[k][0] = coordinates[k][0];
-                newCoordinates[k][1] = coordinates[k][1];
-            }
-
-            results.add(newCoordinates);
+            if (bfs(coordinates)) cnt++;
             return;
         }
 
@@ -48,17 +39,11 @@ public class boj_1941 {
                 coordinates[depth][0] = i;
                 coordinates[depth][1] = j;
                 selected[i][j] = true;
-                combination(i * 5 + j, depth + 1, coordinates, selected, results);
+                combination(i * 5 + j, depth + 1, coordinates, selected);
                 selected[i][j] = false;
             }
 
             j = 0;
-        }
-    }
-
-    public static void isValid(List<int[][]> results) {
-        for (int[][] result : results) {
-            if (bfs(result)) cnt++;
         }
     }
 
