@@ -26,3 +26,4 @@
 | [프로그래머스_최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)      |                        연습문제 | 13:49  |                     X                     |
 | [프로그래머스_요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)       |                        연습문제 | 풀이 참고  |                     X                     |
 | [프로그래머스_연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) |                        연습문제 | 풀이 참고  |                     X                     |
+| [프로그래머스_과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)      |                        연습문제 | 풀이 참고  |                     X                     |
