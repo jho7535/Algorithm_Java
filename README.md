@@ -28,3 +28,4 @@
 | [프로그래머스_과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)      |                        연습문제 | 1시간 초과 |                     X                     |
 | [프로그래머스_두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) |                        연습문제 | 풀이 참고  |                     X                     |
 | [프로그래머스_광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)        |                        연습문제 | 1시간 초과 |                     X                     |
+| [프로그래머스_리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)       |                        연습문제 | 42:01  |                     X                     |
