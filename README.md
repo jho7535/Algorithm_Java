@@ -30,3 +30,4 @@
 | [프로그래머스_광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)        |                        연습문제 | 1시간 초과 |                     X                     |
 | [프로그래머스_리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)       |                        연습문제 | 42:01  |                     X                     |
 | [프로그래머스_당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)        |                        연습문제 | 43:01  |                     X                     |
+| [프로그래머스_혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)        |                        연습문제 | 46:39  |                     X                     |
