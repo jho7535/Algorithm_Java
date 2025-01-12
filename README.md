@@ -33,3 +33,4 @@
 | [프로그래머스_혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)   |                        연습문제 | 46:39  |                     X                     |
 | [프로그래머스_미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)        |                        연습문제 | 24:51  |                     X                     |
 | [프로그래머스_호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)        |                        연습문제 | 30:58  |                     X                     |
+| [프로그래머스_무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)        |                        연습문제 | 37:44  |                     X                     |
