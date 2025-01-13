@@ -34,3 +34,4 @@
 | [프로그래머스_미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)        |                        연습문제 | 24:51  |                     X                     |
 | [프로그래머스_호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)        |                        연습문제 | 30:58  |                     X                     |
 | [프로그래머스_무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)        |                        연습문제 | 37:44  |                     X                     |
+| [프로그래머스_뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)        |                        연습문제 | 54:45  |                     X                     |
