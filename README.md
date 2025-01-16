@@ -37,4 +37,5 @@
 | [프로그래머스_뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) |                        연습문제 | 54:45  |                     X                     |
 | [프로그래머스_숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)      |                        연습문제 | 24:16  |                     X                     |
 | [프로그래머스_시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)        |                        연습문제 | 풀이 참고  |                     X                     |
-| [프로그래머스_마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)         |                        연습문제 | 풀이 참고  |                     X                     |
+| [프로그래머스_마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)    |                        연습문제 | 풀이 참고  |                     X                     |
+| [프로그래머스귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)         |                        연습문제 | 25:21  |                     X                     |
