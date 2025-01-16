@@ -5,24 +5,20 @@ import java.util.*;
 public class 귤_고르기 {
     class Solution {
         public int solution(int k, int[] tangerine) {
-            Integer[] arr = new Integer[10000001];
-            Arrays.fill(arr, 0);
+            Map<Integer, Integer> map = new HashMap<>();
             for (int i : tangerine) {
-                arr[i]++;
+                map.put(i, map.getOrDefault(i, 0) + 1);
             }
 
-            Arrays.sort(arr, (a, b) -> b - a);
+            List<Integer> list = new ArrayList<>(map.values());
+            list.sort((a, b) -> b - a);
 
-            int index = 0, cnt = 1;
-            while (k > 0 && index < 10000001) {
-                if (arr[index] == 0) {
-                    index++;
-                    cnt++;
-                    continue;
-                }
+            int cnt = 0;
+            for (int num : list) {
+                if (k <= 0) break;
 
-                arr[index]--;
-                k--;
+                k -= num;
+                cnt++;
             }
 
             return cnt;
