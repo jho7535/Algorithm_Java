@@ -31,6 +31,7 @@
 | [프로그래머스_두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) |                        연습문제 | 풀이 참고  |                     X                     |
 | [프로그래머스_뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) |                        연습문제 | 54:45  |                     X                     |
 | [프로그래머스_디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)       |                        연습문제 | 30:24  |                     X                     |
+| [프로그래머스_롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)       |                        연습문제 | 21:50  |                     X                     |
 | [프로그래머스_리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)       |                        연습문제 | 42:01  |                     X                     |
 | [프로그래머스_마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)    |                        연습문제 | 풀이 참고  |                     X                     |
 | [프로그래머스_무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)       |                        연습문제 | 37:44  |                     X                     |
