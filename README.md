@@ -39,6 +39,7 @@
 | [프로그래머스_부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)           |                        연습문제 | 풀이 참고  |                     X                     |
 | [프로그래머스_숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)        |                        연습문제 | 24:16  |                     X                     |
 | [프로그래머스_숫자카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)       |                        연습문제 | 29:58  |                     X                     |
+| [프로그래머스_숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797)       |                        연습문제 | 풀이 참고  |                     X                     |
 | [프로그래머스_시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)          |                        연습문제 | 풀이 참고  |                     X                     |
 | [프로그래머스_억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475)       |                        연습문제 | 풀이 참고  |                     X                     |
 | [프로그래머스_연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) |                        연습문제 | 26:34  |                     X                     |
