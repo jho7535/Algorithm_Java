@@ -22,39 +22,40 @@
 | [백준_15649](https://www.acmicpc.net/problem/15649)                                       |                        백트래킹 | 20:07  |                     X                     |
 
 ## 프로그래머스
-| 문제                                                                                        |                     알고리즘 분류 | 풀이 시간  |                                                              풀이                                                               |
-|:------------------------------------------------------------------------------------------|----------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------:|
-| [프로그래머스_과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)        |                        연습문제 | 1시간 초과 |                     X                     |
-| [프로그래머스_광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)          |                        연습문제 | 1시간 초과 |                     X                     |
-| [프로그래머스_귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)          |                        연습문제 | 25:21  |                     X                     |
-| [프로그래머스_당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)          |                        연습문제 | 43:01  |                     X                     |
-| [프로그래머스_두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)   |                        연습문제 | 풀이 참고  |                     X                     |
-| [프로그래머스_뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)   |                        연습문제 | 54:45  |                     X                     |
-| [프로그래머스_디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)         |                        연습문제 | 30:24  |                     X                     |
-| [프로그래머스_롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)       |                        연습문제 | 21:50  |                     X                     |
-| [프로그래머스_리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)         |                        연습문제 | 42:01  |                     X                     |
-| [프로그래머스_마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)      |                        연습문제 | 풀이 참고  |                     X                     |
-| [프로그래머스_무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)         |                        연습문제 | 37:44  |                     X                     |
-| [프로그래머스_미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)          |                        연습문제 | 24:51  |                     X                     |
-| [프로그래머스_부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)           |                        연습문제 | 풀이 참고  |                     X                     |
-| [프로그래머스_숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)        |                        연습문제 | 24:16  |                     X                     |
-| [프로그래머스_숫자카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)       |                        연습문제 | 29:58  |                     X                     |
-| [프로그래머스_숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797)       |                        연습문제 | 풀이 참고  |                     X                     |
-| [프로그래머스_시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)          |                        연습문제 | 풀이 참고  |                     X                     |
-| [프로그래머스_억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475)       |                        연습문제 | 풀이 참고  |                     X                     |
-| [프로그래머스_연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) |                        연습문제 | 22:05  |                     X                     |
-| [프로그래머스_연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) |                        연습문제 | 26:34  |                     X                     |
-| [프로그래머스_연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)   |                        연습문제 | 풀이 참고  |                     X                     |
-| [프로그래머스_요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)         |                        연습문제 | 풀이 참고  |                     X                     |
-| [프로그래머스_인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)           |                        연습문제 | 풀이 참고  |                     X                     |
-| [프로그래머스_점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)           |                        연습문제 | 26:27  |                     X                     |
-| [프로그래머스_최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)        |                        연습문제 | 13:49  |                     X                     |
-| [프로그래머스_택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)           |                        연습문제 | 59:24  |                     X                     |
-| [프로그래머스_테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)      |                        연습문제 | 45:46  |                     X                     |
-| [프로그래머스_할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)          |                        연습문제 | 31:29  |                     X                     |
-| [프로그래머스_호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)          |                        연습문제 | 30:58  |                     X                     |
-| [프로그래머스_혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)      |                        연습문제 | 32:21  |                     X                     |
-| [프로그래머스_혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)     |                        연습문제 | 46:39  |                     X                     |
+| 문제                                                                                        | 알고리즘 분류 | 풀이 시간  |                                                              풀이                                                               |
+|:------------------------------------------------------------------------------------------|--------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------:|
+| [프로그래머스_과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)        |    연습문제 | 1시간 초과 |                     X                     |
+| [프로그래머스_광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)          |    연습문제 | 1시간 초과 |                     X                     |
+| [프로그래머스_귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)          |    연습문제 | 25:21  |                     X                     |
+| [프로그래머스_당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)          |    연습문제 | 43:01  |                     X                     |
+| [프로그래머스_두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)   |    연습문제 | 풀이 참고  |                     X                     |
+| [프로그래머스_뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)   |    연습문제 | 54:45  |                     X                     |
+| [프로그래머스_디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)         |    연습문제 | 30:24  |                     X                     |
+| [프로그래머스_롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)       |    연습문제 | 21:50  |                     X                     |
+| [프로그래머스_리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)         |    연습문제 | 42:01  |                     X                     |
+| [프로그래머스_마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)      |    연습문제 | 풀이 참고  |                     X                     |
+| [프로그래머스_무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)         |    연습문제 | 37:44  |                     X                     |
+| [프로그래머스_미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)          |    연습문제 | 24:51  |                     X                     |
+| [프로그래머스_부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)           |    연습문제 | 풀이 참고  |                     X                     |
+| [프로그래머스_숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)        |    연습문제 | 24:16  |                     X                     |
+| [프로그래머스_숫자카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)       |    연습문제 | 29:58  |                     X                     |
+| [프로그래머스_숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797)       |    연습문제 | 풀이 참고  |                     X                     |
+| [프로그래머스_시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)          |    연습문제 | 풀이 참고  |                     X                     |
+| [프로그래머스_억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475)       |    연습문제 | 풀이 참고  |                     X                     |
+| [프로그래머스_연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) |    연습문제 | 22:05  |                     X                     |
+| [프로그래머스_연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) |    연습문제 | 26:34  |                     X                     |
+| [프로그래머스_연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)   |    연습문제 | 풀이 참고  |                     X                     |
+| [프로그래머스_요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)         |    연습문제 | 풀이 참고  |                     X                     |
+| [프로그래머스_인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)           |    연습문제 | 풀이 참고  |                     X                     |
+| [프로그래머스_점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)           |    연습문제 | 26:27  |                     X                     |
+| [프로그래머스_최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)        |    연습문제 | 13:49  |                     X                     |
+| [프로그래머스_택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)           |    연습문제 | 59:24  |                     X                     |
+| [프로그래머스_테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)      |    연습문제 | 45:46  |                     X                     |
+| [프로그래머스_피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)            |    완전탐색 | 28:11  |                     X                     |
+| [프로그래머스_할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)          |    연습문제 | 31:29  |                     X                     |
+| [프로그래머스_호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)          |    연습문제 | 30:58  |                     X                     |
+| [프로그래머스_혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)      |    연습문제 | 32:21  |                     X                     |
+| [프로그래머스_혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)     |    연습문제 | 46:39  |                     X                     |
 
 
 ## 기타 
