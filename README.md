@@ -33,6 +33,7 @@
 | [프로그래머스_당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)                               |                                       연습문제 | 43:01  |                     X                     |
 | [프로그래머스_두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)                        |                                       연습문제 | 풀이 참고  |                     X                     |
 | [프로그래머스_뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)                        |                                       연습문제 | 54:45  |                     X                     |
+| [프로그래머스_등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)                            |                                       2022 KAKAO TECH INTERNSHIP | 풀이 참고  |                     X                     |
 | [프로그래머스_디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)                              |                                       연습문제 | 30:24  |                     X                     |
 | [프로그래머스_롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)                            |                                       연습문제 | 21:50  |                     X                     |
 | [프로그래머스_리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)                              |                                       연습문제 | 42:01  |                     X                     |
@@ -41,7 +42,7 @@
 | [프로그래머스_무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)                              |                                       연습문제 | 37:44  |                     X                     |
 | [프로그래머스_미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)                               |                                       연습문제 | 24:51  |                     X                     |
 | [프로그래머스_부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)                                |                                       연습문제 | 풀이 참고  |                     X                     |
-| [프로그래머스_삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)                                |                              월간 코드 챌린지 시즌1 | 22:24  |                     X                     |
+| [프로그래머스_삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)                               |                              월간 코드 챌린지 시즌1 | 22:24  |                     X                     |
 | [프로그래머스_숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)                             |                                       연습문제 | 24:16  |                     X                     |
 | [프로그래머스_숫자카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)                            |                                       연습문제 | 29:58  |                     X                     |
 | [프로그래머스_숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797)                            |                                       연습문제 | 풀이 참고  |                     X                     |
@@ -59,7 +60,7 @@
 | [프로그래머스_점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)                                |                                       연습문제 | 26:27  |                     X                     |
 | [프로그래머스_최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)                             |                                       연습문제 | 13:49  |                     X                     |
 | [프로그래머스_카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)                              |                                       연습문제 | 45:17  |                     X                     |
-| [프로그래머스_쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)                        |                                       연습문제 | 22:24  |                     X                     |
+| [프로그래머스_쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)                         |                                       연습문제 | 22:24  |                     X                     |
 | [프로그래머스_택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)                                |                                       연습문제 | 59:24  |                     X                     |
 | [프로그래머스_테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)                           |                                       연습문제 | 45:46  |                     X                     |
 | [프로그래머스_피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)                                  |                                       완전탐색 | 28:11  |                     X                     |
