@@ -61,6 +61,7 @@
 | [프로그래머스_점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)           |                                       연습문제 | 26:27  |   X   |
 | [프로그래머스_최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)        |                                       연습문제 | 13:49  |   X   |
 | [프로그래머스_카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)         |                                       연습문제 | 45:17  |   X   |
+| [프로그래머스_코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)         |                                       2022 KAKAO TECH INTERNSHIP | 풀이 참고  |   X   |
 | [프로그래머스_쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)    |                                       연습문제 | 22:24  |   X   |
 | [프로그래머스_택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)           |                                       연습문제 | 59:24  |   X   |
 | [프로그래머스_테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)      |                                       연습문제 | 45:46  |   X   |
