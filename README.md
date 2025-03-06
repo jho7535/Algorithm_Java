@@ -16,6 +16,7 @@
 | [백준_1941](https://www.acmicpc.net/problem/1941)   |             수학, BFS, 백트래킹 등 | 1시간 초과 |                     X                     |
 | [백준_1976](https://www.acmicpc.net/problem/1976)   | 자료구조, 그래프 이론, 그래프 탐색, 분리 집합 | 49:17  |                                                               X                                                               |
 | [백준_7562](https://www.acmicpc.net/problem/7562)   |         그래프 이론, 그래프 탐색, BFS | 36:11  |                     X                     |
+| [백준_7562](https://www.acmicpc.net/problem/7576)   |         그래프 이론, 그래프 탐색, BFS | 39;35  |                     X                     |
 | [백준_11052](https://www.acmicpc.net/problem/11052) |                          DP | 30:43  | [O](https://velog.io/@jho7535/%EB%B0%B1%EC%A4%80-JAVA-11052%EB%B2%88-%EC%B9%B4%EB%93%9C-%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0) |
 | [백준_11054](https://www.acmicpc.net/problem/11054) |                          DP | 1시간 초과 |                     X                     |
 | [백준_14501](https://www.acmicpc.net/problem/14501) |                   DP, 브루트포스 | 1시간 초과 |                                                               X                                                               |
