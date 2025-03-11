@@ -24,6 +24,7 @@
 | [백준_14502](https://www.acmicpc.net/problem/14502) |    구현, 브루트포스, BFS, 그래프 이론 등 | 1시간 초과 |                                                               X                                                               |
 | [백준_15649](https://www.acmicpc.net/problem/15649) |                        백트래킹 | 20:07  |                                                               X                                                               |
 | [백준_16472](https://www.acmicpc.net/problem/16472) |                       투 포인터 | 풀이 참고  |                                                             [O](https://velog.io/@jho7535/%EB%B0%B1%EC%A4%80-JAVA-16472%EB%B2%88-%EA%B3%A0%EB%83%A5%EC%9D%B4)                                                             |
+| [백준_16933](https://www.acmicpc.net/problem/16933) |         그래프 이론, 그래프 탐색, BFS | 풀이 참고  |                                                             [O](https://velog.io/@jho7535/%EB%B0%B1%EC%A4%80-JAVA-16472%EB%B2%88-%EA%B3%A0%EB%83%A5%EC%9D%B4)                                                             |
 
 ## 프로그래머스
 | 문제                                                                                        |                                                                                                    알고리즘 분류 | 풀이 시간  |  풀이   |
