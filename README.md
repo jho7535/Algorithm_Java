@@ -23,6 +23,7 @@
 | [백준_10422](https://www.acmicpc.net/problem/10422) |                 수학, DP, 조합론 | 풀이 참고  |                                                               X                                                               |
 | [백준_11052](https://www.acmicpc.net/problem/11052) |                          DP | 30:43  | [O](https://velog.io/@jho7535/%EB%B0%B1%EC%A4%80-JAVA-11052%EB%B2%88-%EC%B9%B4%EB%93%9C-%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0) |
 | [백준_11054](https://www.acmicpc.net/problem/11054) |                          DP | 1시간 초과 |                                                               X                                                               |
+| [백준_13334](https://www.acmicpc.net/problem/13334) |      자료 구조, 정렬, 스위핑, 우선순위 큐 | 풀이 참고  |                                                               X                                                               |
 | [백준_14501](https://www.acmicpc.net/problem/14501) |                   DP, 브루트포스 | 1시간 초과 |                                                               X                                                               |
 | [백준_14502](https://www.acmicpc.net/problem/14502) |    구현, 브루트포스, BFS, 그래프 이론 등 | 1시간 초과 |                                                               X                                                               |
 | [백준_15649](https://www.acmicpc.net/problem/15649) |                        백트래킹 | 20:07  |                                                               X                                                               |
