@@ -18,6 +18,7 @@
 | [백준_2437](https://www.acmicpc.net/problem/2437)   |                     그리디, 정렬 | 풀이 참고  |                    [O](https://velog.io/@jho7535/%EB%B0%B1%EC%A4%80-JAVA-2437%EB%B2%88-%EC%A0%80%EC%9A%B8)                    |
 | [백준_2470](https://www.acmicpc.net/problem/2470)   |            정렬, 이분 탐색, 투 포인터 | 29:32  |                                                               X                                                               |
 | [백준_2643](https://www.acmicpc.net/problem/2643)   |                      DP, 정렬 | 49:28  |                                                               X                                                               |
+| [백준_5430](https://www.acmicpc.net/problem/5430)   |       구현, 자료 구조, 문자열, 파싱, 덱 | 풀이 참고  |                                                               X                                                               |
 | [백준_7562](https://www.acmicpc.net/problem/7562)   |         그래프 이론, 그래프 탐색, BFS | 36:11  |                                                               X                                                               |
 | [백준_7562](https://www.acmicpc.net/problem/7576)   |         그래프 이론, 그래프 탐색, BFS | 39:35  |                                                               X                                                               |
 | [백준_10422](https://www.acmicpc.net/problem/10422) |                 수학, DP, 조합론 | 풀이 참고  |                                                               X                                                               |
