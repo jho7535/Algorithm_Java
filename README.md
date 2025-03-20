@@ -11,6 +11,7 @@
 | [백준_1504](https://www.acmicpc.net/problem/1504)   |        그래프 이론, 다익스트라, 최단 경로 | 1시간 초과 |                                                               X                                                               |
 | [백준_1753](https://www.acmicpc.net/problem/1753)   |        그래프 이론, 다익스트라, 최단 경로 | 1시간 초과 |                                                               X                                                               |
 | [백준_1780](https://www.acmicpc.net/problem/1780)   |                    분할정복, 재귀 | 1시간 초과 |                                                               X                                                               |
+| [백준_1915](https://www.acmicpc.net/problem/1780)   |                          DP | 풀이 참고  |                                                               X                                                               |
 | [백준_1916](https://www.acmicpc.net/problem/1916)   |        그래프 이론, 다익스트라, 최단 경로 | 27:07  |                                                               X                                                               |
 | [백준_1931](https://www.acmicpc.net/problem/1931)   |                     그리디, 정렬 | 25:43  |                                                               X                                                               |
 | [백준_1941](https://www.acmicpc.net/problem/1941)   |             수학, BFS, 백트래킹 등 | 1시간 초과 |                                                               X                                                               |
