@@ -33,29 +33,23 @@ public class boj_15681 {
 
         dfs(r);
 
+        StringBuilder sb = new StringBuilder();
         for (int i = 0; i < q; i++) {
             int k = Integer.parseInt(br.readLine());
-            System.out.println(dp[k]);
+            sb.append(dp[k]).append("\n");
         }
+        System.out.println(sb);
     }
 
     public static void dfs(int node) {
         visited[node] = true;
-        List<Integer> current = graph.get(node);
-        Set<Integer> set = new HashSet<>();
+        dp[node] = 1;
 
-        for (int i : current) {
-            if (visited[i]) continue;
-
-            set.add(i);
-            visited[i] = true;
-            dfs(i);
-            visited[i] = false;
+        for (int next : graph.get(node)) {
+            if (!visited[next]) {
+                dfs(next);
+                dp[node] += dp[next];
+            }
         }
-
-        for (int i : set) {
-            dp[node] += dp[i];
-        }
-        dp[node]++;
     }
 }
