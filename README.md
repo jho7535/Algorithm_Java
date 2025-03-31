@@ -5,6 +5,7 @@
 ## 백준
 | 문제                                                |                                    알고리즘 분류 | 풀이 시간  |                                                               풀이                                                               |
 |:--------------------------------------------------|-------------------------------------------:|:------:|:------------------------------------------------------------------------------------------------------------------------------:|
+| [백준_1027](https://www.acmicpc.net/problem/1027)   |                             수학, 브루트포스, 기하학 | 1시간 초과 |                                                               X                                                                |
 | [백준_1103](https://www.acmicpc.net/problem/1103)   |                    DP, 그래프 이론, 그래프 탐색, DFS | 1시간 초과 |                    [O](https://velog.io/@jho7535/%EB%B0%B1%EC%A4%80-JAVA-1103%EB%B2%88-%EA%B2%8C%EC%9E%84)                     |
 | [백준_1138](https://www.acmicpc.net/problem/1138)   |                                    구현, 그리디 | 22:24  |                                                               X                                                                |
 | [백준_1238](https://www.acmicpc.net/problem/1238)   |                       그래프 이론, 다익스트라, 최단 경로 | 1시간 초과 |                    [O](https://velog.io/@jho7535/%EB%B0%B1%EC%A4%80-JAVA-1238%EB%B2%88-%ED%8C%8C%ED%8B%B0)                     |
@@ -33,7 +34,7 @@
 | [백준_14502](https://www.acmicpc.net/problem/14502) |                   구현, 브루트포스, BFS, 그래프 이론 등 | 1시간 초과 |                                                               X                                                                |
 | [백준_15649](https://www.acmicpc.net/problem/15649) |                                       백트래킹 | 20:07  |                                                               X                                                                |
 | [백준_15681](https://www.acmicpc.net/problem/15681) |                DP, 그래프 이론, 그래프 탐색, 트리, DFS | 45:00  |                                                               X                                                                |
-| [백준_15989](https://www.acmicpc.net/problem/15989) |                DP | 풀이 참고  |                                                               X                                                                |
+| [백준_15989](https://www.acmicpc.net/problem/15989) |                                         DP | 풀이 참고  |                                                               X                                                                |
 | [백준_16472](https://www.acmicpc.net/problem/16472) |                                      투 포인터 | 풀이 참고  |               [O](https://velog.io/@jho7535/%EB%B0%B1%EC%A4%80-JAVA-16472%EB%B2%88-%EA%B3%A0%EB%83%A5%EC%9D%B4)                |
 | [백준_16933](https://www.acmicpc.net/problem/16933) |                        그래프 이론, 그래프 탐색, BFS | 풀이 참고  |                                                               X                                                                |
 | [백준_18427](https://www.acmicpc.net/problem/18427) |                                  DP, 배낭 문제 | 풀이 참고  | [O](https://velog.io/@jho7535/%EB%B0%B1%EC%A4%80-JAVA-18427%EB%B2%88-%ED%95%A8%EA%BB%98-%EB%B8%94%EB%A1%9D-%EC%8C%93%EA%B8%B0) |
