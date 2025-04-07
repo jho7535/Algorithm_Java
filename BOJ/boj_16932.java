@@ -12,61 +12,64 @@ public class boj_16932 {
     static int[] dc = {0, 0, -1, 1};
     static int n;
     static int m;
-    static int[][] map;
-    static int[][][] size;
+    static int[][] graph;
+    static int[][] group;
     static boolean[][] visited;
     static int sum = 0;
-    static int number = 1;
+    static Map<Integer, Integer> map = new HashMap<>();
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
         n = Integer.parseInt(st.nextToken());
         m = Integer.parseInt(st.nextToken());
-        map = new int[n][m];
-        size = new int[n][m][2];
+        graph = new int[n][m];
+        group = new int[n][m];
         visited = new boolean[n][m];
         for (int i = 0; i < n; i++) {
             st = new StringTokenizer(br.readLine());
             for (int j = 0; j < m; j++) {
-                map[i][j] = Integer.parseInt(st.nextToken());
+                graph[i][j] = Integer.parseInt(st.nextToken());
+            }
+        }
+
+        int number = 1;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (!visited[i][j] && graph[i][j] == 1) bfs(i, j, number++);
             }
         }
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                if (!visited[i][j] && map[i][j] == 1) bfs(i, j);
-            }
-        }
+                if (graph[i][j] == 1) continue;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (map[i][j] == 1) continue;
-
-                int cnt = 0;
+                int cnt = 1;
                 Set<Integer> set = new HashSet<>();
                 for (int k = 0; k < 4; k++) {
                     int nr = i + dr[k];
                     int nc = j + dc[k];
 
                     if (nr < 0 || nr >= n || nc < 0 || nc >= m) continue;
-                    if (set.contains(size[nr][nc][1])) continue;
+                    if (graph[nr][nc] == 0) continue;
+                    if (set.contains(group[nr][nc])) continue;
 
-                    cnt += size[nr][nc][0];
-                    set.add(size[nr][nc][1]);
+                    cnt += map.get(group[nr][nc]);
+                    set.add(group[nr][nc]);
                 }
 
                 sum = Math.max(sum, cnt);
             }
         }
 
-        System.out.println(sum + 1);
+        System.out.println(sum);
     }
 
-    static void bfs(int row, int col) {
+    static void bfs(int row, int col, int number) {
         Queue<int[]> queue = new LinkedList<>();
         queue.add(new int[]{row, col});
         visited[row][col] = true;
+        group[row][col] = number;
         int cnt = 0;
 
         while (!queue.isEmpty()) {
@@ -80,40 +83,15 @@ public class boj_16932 {
                 int nc = curCol + dc[i];
 
                 if (nr < 0 || nr >= n || nc < 0 || nc >= m) continue;
-                if (map[nr][nc] == 0) continue;
+                if (graph[nr][nc] == 0) continue;
                 if (visited[nr][nc]) continue;
 
                 queue.add(new int[]{nr, nc});
                 visited[nr][nc] = true;
+                group[nr][nc] = number;
             }
         }
 
-        fill(row, col, cnt);
-        number++;
-    }
-    static void fill(int row, int col, int num) {
-        Queue<int[]> queue = new LinkedList<>();
-        queue.add(new int[]{row, col});
-        size[row][col][0] = num;
-        size[row][col][1] = number;
-
-        while (!queue.isEmpty()) {
-            int[] current = queue.poll();
-            int curRow = current[0];
-            int curCol = current[1];
-
-            for (int i = 0; i < 4; i++) {
-                int nr = curRow + dr[i];
-                int nc = curCol + dc[i];
-
-                if (nr < 0 || nr >= n || nc < 0 || nc >= m) continue;
-                if (map[nr][nc] == 0) continue;
-                if (size[nr][nc][0] != 0) continue;
-
-                size[nr][nc][0] = num;
-                size[nr][nc][1] = number;
-                queue.add(new int[]{nr, nc});
-            }
-        }
+        map.put(number, cnt);
     }
 }
