@@ -1,0 +1,53 @@
+package nestnet_algorithm_2023_2.JeongHanUl.BOJ;
+
+import java.io.*;
+import java.util.*;
+
+public class boj_5052 {
+    //public class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int t = Integer.parseInt(br.readLine());
+        while (t-- > 0) {
+            int n = Integer.parseInt(br.readLine());
+            String[] input = new String[n];
+            for (int i = 0; i < n; i++) input[i] = br.readLine();
+
+            Arrays.sort(input);
+
+            Trie trie = new Trie();
+            boolean output = true;
+            for (int i = 0; i < n; i++) {
+                if (!trie.insert(input[i])) {
+                    output = false;
+                    break;
+                }
+            }
+
+            System.out.println(output ? "YES" : "NO");
+        }
+    }
+
+    static class Node {
+        Map<Character, Node> children = new HashMap<>();
+        boolean isEnd = false;
+    }
+    static class Trie {
+        Node root = new Node();
+
+        boolean insert(String str) {
+            Node current = root;
+
+            for (char ch : str.toCharArray()) {
+                if (current.isEnd) return false;
+
+                current = current.children.computeIfAbsent(ch, c -> new Node());
+            }
+
+            if (!current.children.isEmpty()) return false;
+
+            current.isEnd = true;
+            return true;
+        }
+    }
+}
