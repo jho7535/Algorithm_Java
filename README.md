@@ -94,7 +94,7 @@
 | [프로그래머스_억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475)       |                         연습문제 | 풀이 참고  |   X   |
 | [프로그래머스_연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) |                         연습문제 | 22:05  |   X   |
 | [프로그래머스_연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) |                         연습문제 | 26:34  |   X   |
-| [프로그래머스_완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)     |                           해시 | 17:54  |   X   |
+| [프로그래머스_완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)      |                           해시 | 17:54  |   X   |
 | [프로그래머스_연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)   |                         연습문제 | 풀이 참고  |   X   |
 | [프로그래머스_요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)         |                         연습문제 | 풀이 참고  |   X   |
 | [프로그래머스_이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)      |                월간 코드 챌린지 시즌1 | 12:53  |   X   |
@@ -104,6 +104,7 @@
 | [프로그래머스_점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)           |                         연습문제 | 26:27  |   X   |
 | [프로그래머스_최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)        |                         연습문제 | 13:49  |   X   |
 | [프로그래머스_카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)         |                         연습문제 | 45:17  |   X   |
+| [프로그래머스_카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)             |                         완전탐색 | 15:18  |   X   |
 | [프로그래머스_코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)      |   2022 KAKAO TECH INTERNSHIP | 풀이 참고  |   X   |
 | [프로그래머스_쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)    |                         연습문제 | 22:24  |   X   |
 | [프로그래머스_타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)           |         깊이/너비 우선 탐색(DFS/BFS) | 14:23  |   X   |
