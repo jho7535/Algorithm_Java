@@ -61,13 +61,14 @@
 ## 프로그래머스
 | 문제                                                                                        |                      알고리즘 분류 | 풀이 시간  |  풀이   |
 |:------------------------------------------------------------------------------------------|-----------------------------:|:------:|:-----:|
+| [프로그래머스_H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)         |                           정렬 | 풀이 참고  |   X   |
 | [프로그래머스_n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)      |                월간 코드 챌린지 시즌3 | 40:30  |   X   |
 | [프로그래머스_거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)       |           2021 카카오 채용연계형 인턴십 | 1시간 초과 |   X   |
 | [프로그래머스_과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)        |                         연습문제 | 1시간 초과 |   X   |
 | [프로그래머스_괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)         |                월간 코드 챌린지 시즌2 | 56:51  |   X   |
 | [프로그래머스_광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)          |                         연습문제 | 1시간 초과 |   X   |
 | [프로그래머스_귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)          |                         연습문제 | 25:21  |   X   |
-| [프로그래머스_네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)           |                         깊이/너비 우선 탐색(DFS/BFS)| 10:51  |   X   |
+| [프로그래머스_네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)            |         깊이/너비 우선 탐색(DFS/BFS) | 10:51  |   X   |
 | [프로그래머스_당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)          |                         연습문제 | 43:01  |   X   |
 | [프로그래머스_두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)   |                         연습문제 | 풀이 참고  |   X   |
 | [프로그래머스_뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)   |                         연습문제 | 54:45  |   X   |
