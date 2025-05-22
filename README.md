@@ -102,6 +102,7 @@
 | [프로그래머스_이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)      |                월간 코드 챌린지 시즌1 | 12:53  |   X   |
 | [프로그래머스_2차원 동전 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/131703)     |                         연습문제 | 풀이 참고  |   X   |
 | [프로그래머스_인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)           |                         연습문제 | 풀이 참고  |   X   |
+| [프로그래머_입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)            |                         이분탐색 | 풀이 참고  |   X   |
 | [프로그래머스_전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)     |                         완전탐색 | 38:20  |   X   |
 | [프로그래머스_점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)           |                         연습문제 | 26:27  |   X   |
 | [프로그래머스_최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)        |                         연습문제 | 13:49  |   X   |
