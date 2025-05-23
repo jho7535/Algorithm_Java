@@ -86,6 +86,7 @@
 | [프로그래머스_문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)          | 2020 KAKAO BLIND RECRUITMENT | 49:02  |   X   |
 | [프로그래머스_미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)          |                         연습문제 | 24:51  |   X   |
 | [프로그래머스_방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)           |  Summer/Winter Coding(~2018) | 33:40  |   X   |
+| [프로그래머스_베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)           |  해시 | 1시간 초과 |   X   |
 | [프로그래머스_부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)           |                         연습문제 | 풀이 참고  |   X   |
 | [프로그래머스_삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)          |                월간 코드 챌린지 시즌1 | 22:24  |   X   |
 | [프로그래머스_섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)          |                  탐욕법(Greedy) | 27:24  |   X   |
