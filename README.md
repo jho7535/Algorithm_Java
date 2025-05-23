@@ -88,6 +88,7 @@
 | [프로그래머스_방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)           |  Summer/Winter Coding(~2018) | 33:40  |   X   |
 | [프로그래머스_부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)           |                         연습문제 | 풀이 참고  |   X   |
 | [프로그래머스_삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)          |                월간 코드 챌린지 시즌1 | 22:24  |   X   |
+| [프로그래머스_섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)          |                  탐욕법(Greedy) | 27:24  |   X   |
 | [프로그래머스_수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)          |                 2020 카카오 인턴십 | 1시간 초과 |   X   |
 | [프로그래머스_숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)        |                         연습문제 | 24:16  |   X   |
 | [프로그래머스_숫자카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)       |                         연습문제 | 29:58  |   X   |
