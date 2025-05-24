@@ -60,7 +60,7 @@
 
 ## 프로그래머스
 | 문제                                                                                        |                      알고리즘 분류 | 풀이 시간  |  풀이   |
-|:------------------------------------------------------------------------------------------|-----------------------------:|:------:|:-----:|
+|:------------------------------------------------------------------------------------------|-----------------:|:------:|:-----:|
 | [프로그래머스_H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)         |                           정렬 | 풀이 참고  |   X   |
 | [프로그래머스_n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)      |                월간 코드 챌린지 시즌3 | 40:30  |   X   |
 | [프로그래머스_가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)         |                          그래프 | 16:55  |   X   |
@@ -91,7 +91,7 @@
 | [프로그래머스_부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)           |                         연습문제 | 풀이 참고  |   X   |
 | [프로그래머스_삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)          |                월간 코드 챌린지 시즌1 | 22:24  |   X   |
 | [프로그래머스_섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)          |                  탐욕법(Greedy) | 27:24  |   X   |
-| [프로그래머스_소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)           |                  완전탐색 | 35:05  |   X   |
+| [프로그래머스_소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)           |                         완전탐색 | 35:05  |   X   |
 | [프로그래머스_수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)          |                 2020 카카오 인턴십 | 1시간 초과 |   X   |
 | [프로그래머스_숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)        |                         연습문제 | 24:16  |   X   |
 | [프로그래머스_숫자카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)       |                         연습문제 | 29:58  |   X   |
@@ -101,6 +101,7 @@
 | [프로그래머스_아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)          |                      DFS/BFS | 풀이 참고  |   X   |
 | [프로그래머스_양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)           | 2022 KAKAO BLIND RECRUITMENT | 풀이 참고  |   X   |
 | [프로그래머스_억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475)       |                         연습문제 | 풀이 참고  |   X   |
+| [프로그래머스_여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)           |                 깊이/너비 우선 탐색(DFS/BFS) | 1시간 초과 |   X   |
 | [프로그래머스_연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) |                         연습문제 | 22:05  |   X   |
 | [프로그래머스_연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) |                         연습문제 | 26:34  |   X   |
 | [프로그래머스_완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)      |                           해시 | 17:54  |   X   |
