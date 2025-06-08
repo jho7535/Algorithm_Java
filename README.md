@@ -97,6 +97,7 @@
 | [프로그래머스_귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)          |                         연습문제 | 25:21  |   X   |
 | [프로그래머스_금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053)       |                        이분 탐색 | 풀이 참고  |   X   |
 | [프로그래머스_네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)            |         깊이/너비 우선 탐색(DFS/BFS) | 10:51  |   X   |
+| [프로그래머스_다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)       |                           구현 | 36:46  |   X   |
 | [프로그래머스_다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)      |                         스택/큐 | 41:43  |   X   |
 | [프로그래머스_단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)           |                  탐욕법(Greedy) | 15:24  |   X   |
 | [프로그래머스_당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)          |                         연습문제 | 43:01  |   X   |
@@ -141,7 +142,7 @@
 | [프로그래머스_입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)            |                         이분탐색 | 풀이 참고  |   X   |
 | [프로그래머스_전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)     |                         완전탐색 | 38:20  |   X   |
 | [프로그래머스_점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)           |                         연습문제 | 26:27  |   X   |
-| [프로그래머스_조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)            |                         탐욕법(Greedy) | 풀이 참고  |   X   |
+| [프로그래머스_조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)            |                  탐욕법(Greedy) | 풀이 참고  |   X   |
 | [프로그래머스_주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)            |                         스택/큐 | 풀이 참고  |   X   |
 | [프로그래머스_최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)        |                         연습문제 | 13:49  |   X   |
 | [프로그래머스_카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)         |                         연습문제 | 45:17  |   X   |
