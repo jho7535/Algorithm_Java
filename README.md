@@ -117,6 +117,7 @@
 | [프로그래머스_연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) |                         연습문제 | 26:34  |   X   |
 | [프로그래머스_완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)      |                           해시 | 17:54  |   X   |
 | [프로그래머스_연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)   |                         연습문제 | 풀이 참고  |   X   |
+| [프로그래머스_오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)          |                         2019 KAKAO BLIND RECRUITMENT | 22:43  |   X   |
 | [프로그래머스_요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)         |                         연습문제 | 풀이 참고  |   X   |
 | [프로그래머스_이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)      |                월간 코드 챌린지 시즌1 | 12:53  |   X   |
 | [프로그래머스_2차원 동전 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/131703)     |                         연습문제 | 풀이 참고  |   X   |
