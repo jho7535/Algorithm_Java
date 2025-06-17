@@ -79,6 +79,7 @@
 | [프로그래머스_n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)      |                월간 코드 챌린지 시즌3 | 40:30  |   X   |
 | [프로그래머스_가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)         |                          그래프 | 16:55  |   X   |
 | [프로그래머스_거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)       |           2021 카카오 채용연계형 인턴십 | 1시간 초과 |   X   |
+| [프로그래머스_공 이동 시뮬레이션](https://school.programmers.co.kr/learn/courses/30/lessons/87391)      |                월간 코드 챌린지 시즌3 | 풀이 참고  |   X   |
 | [프로그래머스_과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)        |                         연습문제 | 1시간 초과 |   X   |
 | [프로그래머스_괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)         |                월간 코드 챌린지 시즌2 | 56:51  |   X   |
 | [프로그래머스_광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)          |                         연습문제 | 1시간 초과 |   X   |
@@ -120,7 +121,7 @@
 | [프로그래머스_연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) |                         연습문제 | 26:34  |   X   |
 | [프로그래머스_완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)      |                           해시 | 17:54  |   X   |
 | [프로그래머스_연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)   |                         연습문제 | 풀이 참고  |   X   |
-| [프로그래머스_오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)          |                         2019 KAKAO BLIND RECRUITMENT | 22:43  |   X   |
+| [프로그래머스_오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)           | 2019 KAKAO BLIND RECRUITMENT | 22:43  |   X   |
 | [프로그래머스_요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)         |                         연습문제 | 풀이 참고  |   X   |
 | [프로그래머스_이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)      |                월간 코드 챌린지 시즌1 | 12:53  |   X   |
 | [프로그래머스_2차원 동전 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/131703)     |                         연습문제 | 풀이 참고  |   X   |
