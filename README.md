@@ -81,6 +81,7 @@
 | [백준_16932](https://www.acmicpc.net/problem/16932) |                   그래프 이론, 그래프 탐색, BFS, DFS | 1시간 초과 |                                                               X                                                                |
 | [백준_16933](https://www.acmicpc.net/problem/16933) |                        그래프 이론, 그래프 탐색, BFS | 풀이 참고  |                                                               X                                                                |
 | [백준_17265](https://www.acmicpc.net/problem/17265) |         그래프 이론, 그래프 탐색, DFS, 브루트포스, 격자 그래프 | 38:46  |                                                               X                                                                |
+| [백준_17825](https://www.acmicpc.net/problem/17825) |                     구현, 시뮬레이션, 백트래킹, 브루트포스 | 풀이 참고  |                                                               X                                                                |
 | [백준_18427](https://www.acmicpc.net/problem/18427) |                                  DP, 배낭 문제 | 풀이 참고  | [O](https://velog.io/@jho7535/%EB%B0%B1%EC%A4%80-JAVA-18427%EB%B2%88-%ED%95%A8%EA%BB%98-%EB%B8%94%EB%A1%9D-%EC%8C%93%EA%B8%B0) |
 | [백준_20055](https://www.acmicpc.net/problem/20055) |                                  구현, 시뮬레이션 | 42:09  |                                                               X                                                                |
 
