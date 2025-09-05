@@ -144,6 +144,7 @@
 | [프로그래머스_베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)           |                           해시 | 1시간 초과 |   X   |
 | [프로그래머스_부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)           |                         연습문제 | 풀이 참고  |   X   |
 | [프로그래머스_삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)          |                월간 코드 챌린지 시즌1 | 22:24  |   X   |
+| [프로그래머스_서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)        |                        시뮬레이션 | 29:25  |   X   |
 | [프로그래머스_섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)          |                  탐욕법(Greedy) | 27:24  |   X   |
 | [프로그래머스_소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)           |                         완전탐색 | 35:05  |   X   |
 | [프로그래머스_수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)          |                 2020 카카오 인턴십 | 1시간 초과 |   X   |
