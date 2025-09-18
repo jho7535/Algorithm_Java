@@ -39,30 +39,17 @@ public class boj_20303 {
             if (!visited[i]) bfs(i);
         }
 
-        groups.sort((a, b) -> {
-           if (a[0] == b[0]) return b[1] - a[1];
-           return a[0] - b[0];
-        });
-
         int[] dp = new int[k];
-        int max = 0;
         for (int[] group : groups) {
             int curKid = group[0];
             int curCandy = group[1];
 
-            for (int i = k - 1; i > curKid; i--) {
-                if (dp[i - curKid] != 0) {
+            for (int i = k - 1; i >= curKid; i--) {
                     dp[i] = Math.max(dp[i], dp[i - curKid] + curCandy);
-                    max = Math.max(max, dp[i]);
-                }
-            }
-            if (curKid < k) {
-                dp[curKid] = Math.max(dp[curKid], curCandy);
-                max = Math.max(max, dp[curKid]);
             }
         }
 
-        System.out.println(max);
+        System.out.println(dp[k - 1]);
     }
 
     static void bfs(int start) {
