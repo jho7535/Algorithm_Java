@@ -199,6 +199,11 @@
 | [프로그래머스_혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)      |                         연습문제 | 32:21  |   X   |
 | [프로그래머스_혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)     |                         연습문제 | 46:39  |   X   |
 
+## 코드트리
+| 문제                                                                                                   |             알고리즘 분류 | 풀이 시간  |  풀이   |
+|:-----------------------------------------------------------------------------------------------------|--------------------:|:------:|:-----:|
+| [코드트리_여왕 개미](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/queen-ant/description) | 그리디, 이진 탐색, 파라매틱 서치 | 풀이 참고  |   X   |
+
 
 ## 기타 
 | 문제                                                                                      |                     알고리즘 분류 | 풀이 시간  |                                                              풀이                                                               |
