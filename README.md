@@ -203,6 +203,7 @@
 | 문제                                                                                                   |             알고리즘 분류 | 풀이 시간  |  풀이   |
 |:-----------------------------------------------------------------------------------------------------|--------------------:|:------:|:-----:|
 | [코드트리_여왕 개미](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/queen-ant/description) | 그리디, 이진 탐색, 파라매틱 서치 | 풀이 참고  |   X   |
+| [코드트리_미생물 연구](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/microbial-research/description) | 그리디, 이진 탐색, 파라매틱 서치 | 풀이 참고  |   X   |
 
 
 ## 기타 
