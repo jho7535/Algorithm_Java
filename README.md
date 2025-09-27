@@ -205,6 +205,7 @@
 | [코드트리_여왕 개미](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/queen-ant/description) | 그리디, 이진 탐색, 파라매틱 서치 | 풀이 참고  |   X   |
 | [코드트리_미생물 연구](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/microbial-research/description) | 그리디, 이진 탐색, 파라매틱 서치 | 풀이 참고  |   X   |
 | [코드트리_민트 초코 우유](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/mint-choco-milk/description) |          시뮬레이션, BFS | 풀이 참고  |   X   |
+| [코드트리_메두사와 전사들](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/medusa-and-warriors/description) |          시뮬레이션, BFS | 풀이 참고  |   X   |
 
 
 ## 기타 
