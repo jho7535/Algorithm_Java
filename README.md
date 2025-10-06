@@ -191,6 +191,7 @@
 | [프로그래머스_코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)      |   2022 KAKAO TECH INTERNSHIP | 풀이 참고  |   X   |
 | [프로그래머스_쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)    |                         연습문제 | 22:24  |   X   |
 | [프로그래머스_타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)           |         깊이/너비 우선 탐색(DFS/BFS) | 14:23  |   X   |
+| [프로그래머스_택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)     |                          그리디 | 41:43  |   X   |
 | [프로그래머스_택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)           |                         연습문제 | 59:24  |   X   |
 | [프로그래머스_테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)      |                         연습문제 | 45:46  |   X   |
 | [프로그래머스_튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)              |          2019 카카오 개발자 겨울 인턴십 | 38:35  |   X   |
