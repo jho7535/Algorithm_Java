@@ -184,6 +184,7 @@
 | [프로그래머스_전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)     |                         완전탐색 | 38:20  |   X   |
 | [프로그래머스_점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)           |                         연습문제 | 26:27  |   X   |
 | [프로그래머스_조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)            |                  탐욕법(Greedy) | 풀이 참고  |   X   |
+| [프로그래머스_주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)        |            브루트 포스, 조합, 이분 탐색 | 풀이 참고  |   X   |
 | [프로그래머스_주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)            |                         스택/큐 | 풀이 참고  |   X   |
 | [프로그래머스_지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353)        |                   시뮬레이션, BFS | 1시간 초과 |   X   |
 | [프로그래머스_최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)        |                         연습문제 | 13:49  |   X   |
