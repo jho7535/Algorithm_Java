@@ -138,6 +138,7 @@
 | [프로그래머스_다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)      |                         스택/큐 | 41:43  |   X   |
 | [프로그래머스_단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)           |                  탐욕법(Greedy) | 15:24  |   X   |
 | [프로그래머스_당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)          |                         연습문제 | 43:01  |   X   |
+| [프로그래머스_도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)          |                      그래프, 구현 | 풀이 참고  |   X   |
 | [프로그래머스_두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)   |                         연습문제 | 풀이 참고  |   X   |
 | [프로그래머스_뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)   |                         연습문제 | 54:45  |   X   |
 | [프로그래머스_등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)       |   2022 KAKAO TECH INTERNSHIP | 풀이 참고  | [O](https://velog.io/@jho7535/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-JAVA-%EB%93%B1%EC%82%B0%EC%BD%94%EC%8A%A4-%EC%A0%95%ED%95%98%EA%B8%B0) |
