@@ -122,6 +122,7 @@
 | 문제                                                                                        |                      알고리즘 분류 | 풀이 시간  |  풀이   |
 |:------------------------------------------------------------------------------------------|-----------------------------:|:------:|:-----:|
 | [프로그래머스_H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)         |                           정렬 | 풀이 참고  |   X   |
+| [프로그래머스_n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707)      |                          그리디 | 풀이 참고  |   X   |
 | [프로그래머스_N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)          |   동적계획법(Dynamic Programming) | 풀이 참고  |   X   |
 | [프로그래머스_n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)      |                월간 코드 챌린지 시즌3 | 40:30  |   X   |
 | [프로그래머스_가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)         |                          그래프 | 16:55  |   X   |
