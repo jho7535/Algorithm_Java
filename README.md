@@ -206,6 +206,7 @@
 | [프로그래머스_테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)      |                         연습문제 | 45:46  |   X   |
 | [프로그래머스_튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)              |          2019 카카오 개발자 겨울 인턴십 | 38:35  |   X   |
 | [프로그래머스_파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)      | 2022 KAKAO BLIND RECRUITMENT | 풀이 참고  |   X   |
+| [프로그래머스_표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)            |               유니온 파인드, 시뮬레이션 | 풀이 참고  |   X   |
 | [프로그래머스_피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)             |                         완전탐색 | 28:11  |   X   |
 | [프로그래머스_할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)          |                         연습문제 | 31:29  |   X   |
 | [프로그래머스_행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)     |                         연습문제 | 56:51  |   X   |
