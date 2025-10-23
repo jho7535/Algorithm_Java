@@ -140,6 +140,7 @@
 | [프로그래머스_구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)           |                         탐욕법(Greedy) | 풀이 참고  |   X   |
 | [프로그래머스_귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)          |                         연습문제 | 25:21  |   X   |
 | [프로그래머스_금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053)       |                        이분 탐색 | 풀이 참고  |   X   |
+| [프로그래머스_기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)       |                    구현, 시뮬레이션 | 1:38:03  |   X   |
 | [프로그래머스_네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)            |         깊이/너비 우선 탐색(DFS/BFS) | 10:51  |   X   |
 | [프로그래머스_다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)       |                           구현 | 36:46  |   X   |
 | [프로그래머스_다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)      |                         스택/큐 | 41:43  |   X   |
