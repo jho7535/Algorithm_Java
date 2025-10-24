@@ -197,6 +197,7 @@
 | [프로그래머스_주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)            |                         스택/큐 | 풀이 참고  |   X   |
 | [프로그래머스_지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353)        |                   시뮬레이션, BFS | 1시간 초과 |   X   |
 | [프로그래머스_최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)        |                         연습문제 | 13:49  |   X   |
+| [프로그래머스_카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)         |                        시뮬레이션 | 1:21:03  |   X   |
 | [프로그래머스_카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)         |                         연습문제 | 45:17  |   X   |
 | [프로그래머스_카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)              |                         완전탐색 | 15:18  |   X   |
 | [프로그래머스_코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)      |   2022 KAKAO TECH INTERNSHIP | 풀이 참고  |   X   |
