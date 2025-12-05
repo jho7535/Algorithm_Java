@@ -137,6 +137,7 @@
 | [백준_19238](https://www.acmicpc.net/problem/19238) |                             구현, BFS, 시뮬레이션 | 1시간 초과 |                                                               X                                                                |
 | [백준_20055](https://www.acmicpc.net/problem/20055) |                                  구현, 시뮬레이션 | 42:09  |                                                               X                                                                |
 | [백준_20303](https://www.acmicpc.net/problem/20303) |                  DP, 그래프 이론, 그래프 탐색, 배낭 문제 | 43:13  |                                                               X                                                                |
+| [백준_20303](https://www.acmicpc.net/problem/20303) |                                         구현 | 44:19  |                                                               X                                                                |
 
 ## 프로그래머스
 | 문제                                                                                        |                      알고리즘 분류 | 풀이 시간  |  풀이   |
